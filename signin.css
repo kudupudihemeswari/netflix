@@ -84,12 +84,6 @@ form input[type="checkbox"]{
     text-decoration: none;
     color: #d9d0d0;
 }
-label{
-    color: #d9d0d0;
-    font-size: 0.8rem;
-    font-weight: 500;
-    margin:5px 5px ;
-}
 p{
     margin: 4% 0%;
     color: #d9d0d0;
@@ -99,11 +93,7 @@ small{
     margin: 1% 0%;
 }
 p a{
-    text-decoration: none;
     color: #fff;
     padding: 0% 3%;
 }
-small a{
-    text-decoration: none;
-    color: blue;
-}
+

@@ -99,11 +99,10 @@ small{
     margin: 1% 0%;
 }
 p a{
-    text-decoration: none;
     color: #fff;
     padding: 0% 3%;
 }
 small a{
     text-decoration: none;
-    color: blue;
+    color:blue;
 }
